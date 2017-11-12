@@ -1,0 +1,13 @@
+{
+    "name": "besingamkb/timezones",
+    "description": "Demo-package to show time",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Mark Kevin Besinga",
+            "email": "besingamkb@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
