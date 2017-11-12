@@ -1,7 +1,7 @@
 {
     "name": "besingamkb/timezones",
     "description": "Demo-package to show time",
-    "type": "project",
+    "type": "library",
     "authors": [
         {
             "name": "Mark Kevin Besinga",
